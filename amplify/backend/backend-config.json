@@ -1,0 +1,15 @@
+{
+	"auth": {
+		"videotestce849a79": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": []
+		}
+	},
+	"storage": {
+		"default": {
+			"service": "S3",
+			"providerPlugin": "awscloudformation"
+		}
+	}
+}

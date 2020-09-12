@@ -1,0 +1,20 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-videotest-dev-230907-authRole",
+            "UnauthRoleArn": "arn:aws:iam::360395658733:role/amplify-videotest-dev-230907-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::360395658733:role/amplify-videotest-dev-230907-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-videotest-dev-230907-deployment",
+            "UnauthRoleName": "amplify-videotest-dev-230907-unauthRole",
+            "StackName": "amplify-videotest-dev-230907",
+            "StackId": "arn:aws:cloudformation:us-east-1:360395658733:stack/amplify-videotest-dev-230907/71e7a890-f4a5-11ea-acd7-121b03ae900d",
+            "AmplifyAppId": "dk1y22r8zfjp6"
+        },
+        "categories": {
+            "auth": {
+                "videotestce849a79": {}
+            }
+        }
+    }
+}
